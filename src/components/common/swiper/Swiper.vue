@@ -24,7 +24,7 @@
       },
       animDuration: {
         type: Number,
-        default: 300
+        default: 1500
       },
       moveRatio: {
         type: Number,
